@@ -25,3 +25,9 @@
 ## Autor
 
 Medardo Enrique Sánchez Sequera
+
+## Demo
+
+Puedes ver la página en línea usando GitHub Pages en el siguiente enlace:
+
+[https://medardos.github.io/Layaout-Grid/](https://medardos.github.io/Layaout-Grid/)
